@@ -21,6 +21,7 @@ Add the following to `~/.bash_profile`
 
 ```
 export VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python3
+export VIRTUALENV_PYTHON=/usr/local/bin/python3
 export WORKON_HOME=$HOME/.virtualenvs
 source /usr/local/bin/virtualenvwrapper.sh
 ```
