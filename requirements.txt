@@ -1,0 +1,14 @@
+localstack==0.12.18.5
+moto==2.2.9
+Flask-Cors==3.0.10
+h11==0.12.0
+Hypercorn==0.11.2
+Quart==0.15.1
+readerwriterlock==1.0.9
+jsonpatch==1.32
+cbor2==5.4.2
+cachetools==4.2.4
+crontab==0.23.0
+pyOpenSSL==21.0.0
+aws-sam-translator==1.39.0
+amazon-kclpy==2.0.2
